@@ -1,0 +1,49 @@
+{
+  "grupos": [
+    {
+      "nombre": "Noticias",
+      "canales": [
+        {
+          "nombre": "CNN en Español",
+          "id": "cnn-es",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN_internacional.svg/200px-CNN_internacional.svg.png",
+          "url": "https://TU_ENLACE_AQUI/cnn-es"
+        },
+        {
+          "nombre": "BBC World News",
+          "id": "bbc-world",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_World_News_2022_%28Boxed%29.svg/200px-BBC_World_News_2022_%28Boxed%29.svg.png",
+          "url": "https://TU_ENLACE_AQUI/bbc"
+        }
+      ]
+    },
+    {
+      "nombre": "Entretenimiento",
+      "canales": [
+        {
+          "nombre": "Canal de Ejemplo 1",
+          "id": "ejemplo1",
+          "logo": "https://via.placeholder.com/100x100.png?text=CH1",
+          "url": "https://TU_ENLACE_AQUI/canal1"
+        },
+        {
+          "nombre": "Canal de Ejemplo 2",
+          "id": "ejemplo2",
+          "logo": "https://via.placeholder.com/100x100.png?text=CH2",
+          "url": "https://TU_ENLACE_AQUI/canal2"
+        }
+      ]
+    },
+    {
+      "nombre": "Deportes",
+      "canales": [
+        {
+          "nombre": "Canal Deportes 1",
+          "id": "deportes1",
+          "logo": "https://via.placeholder.com/100x100.png?text=DEP",
+          "url": "https://TU_ENLACE_AQUI/deportes1"
+        }
+      ]
+    }
+  ]
+}

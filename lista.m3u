@@ -1,0 +1,9 @@
+#EXTM3U
+# Lista IPTV Personal — edita canales.json y ejecuta generar_lista.py para actualizar
+
+#EXTINF:-1 tvg-id="ejemplo1" tvg-name="Canal Ejemplo 1" tvg-logo="https://via.placeholder.com/100x100.png?text=CH1" group-title="Entretenimiento",Canal Ejemplo 1
+https://TU_ENLACE_AQUI/canal1
+
+#EXTINF:-1 tvg-id="ejemplo2" tvg-name="Canal Ejemplo 2" tvg-logo="https://via.placeholder.com/100x100.png?text=CH2" group-title="Entretenimiento",Canal Ejemplo 2
+https://TU_ENLACE_AQUI/canal2
+
