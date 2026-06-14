@@ -1,0 +1,27 @@
+name: 🔄 Actualizar Lista IPTV
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Todos los días a las 6 AM UTC (12 AM hora SV)
+  workflow_dispatch:        # También permite ejecutar manualmente desde GitHub
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📡 Generar lista M3U
+        run: python descargar_canales.py
+
+      - name: 💾 Subir lista actualizada
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto: actualizar lista.m3u"
+          file_pattern: lista.m3u
