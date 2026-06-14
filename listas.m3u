@@ -1,0 +1,34 @@
+#EXTM3U x-tvg-url="" refresh="3600"
+
+#EXTINF:-1 tvg-name="RTVE La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RTVE_La_1_2021.svg/200px-RTVE_La_1_2021.svg.png" group-title="España - Mundial 2026",RTVE La 1 HD
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="RTVE Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Teledeporte_2021.svg/200px-Teledeporte_2021.svg.png" group-title="España - Mundial 2026",RTVE Teledeporte
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="TV Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Azteca_7_2019.png/200px-Azteca_7_2019.png" group-title="México - Mundial 2026",TV Azteca 7
+https://aztecalive.akamaized.net/hls/live/2016741/azteca7/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5 Televisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Canal_5_Mexico_2016.svg/200px-Canal_5_Mexico_2016.svg.png" group-title="México - Mundial 2026",Canal 5 Televisa
+https://mdstrm.com/live-stream/57f459e7c64dbc2a09db5c85.m3u8
+
+#EXTINF:-1 tvg-name="Gol Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gol_Caracol_2020.png/200px-Gol_Caracol_2020.png" group-title="Colombia - Mundial 2026",Gol Caracol
+https://mdstrm.com/live-stream/5c82e4c985f5b90e4b0f7cf5.m3u8
+
+#EXTINF:-1 tvg-name="RCN Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Canal_RCN_2020.svg/200px-Canal_RCN_2020.svg.png" group-title="Colombia - Mundial 2026",RCN Colombia
+https://rcnlive.akamaized.net/hls/live/2016744/rcnlive/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Telef%C3%A9_2019.svg/200px-Telef%C3%A9_2019.svg.png" group-title="Argentina - Mundial 2026",Telefe
+https://telefe.com/live/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Pública Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_P%C3%BAblica_logo_2017.svg/200px-TV_P%C3%BAblica_logo_2017.svg.png" group-title="Argentina - Mundial 2026",TV Pública Argentina
+https://streaming.tvpublica.com.ar/tvpublica/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Telemundo_2018.svg/200px-Telemundo_2018.svg.png" group-title="EE.UU. en Español - Mundial 2026",Telemundo
+https://telemundolive.akamaized.net/hls/live/2016743/telemundo/index.m3u8
+
+#EXTINF:-1 tvg-name="Universo (NBC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/NBC_Universo_logo.svg/200px-NBC_Universo_logo.svg.png" group-title="EE.UU. en Español - Mundial 2026",Universo
+https://universohd.akamaized.net/hls/live/2016742/universo/index.m3u8
+
+#EXTINF:-1 tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Teleamazonas_2016.png/200px-Teleamazonas_2016.png" group-title="Ecuador - Mundial 2026",Teleamazonas
+https://teleamazonas.com/live/index.m3u8
